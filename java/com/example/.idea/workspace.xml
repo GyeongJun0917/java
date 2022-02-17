@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb9be5a-80e8-4cfb-88c5-8dea42bd0f62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/BfsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/BinaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/BruteForceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/BruteForceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/DfsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/DpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/DpServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/GraphService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/GreedyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/HashService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/HashServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/HeapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/QueueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/SoftServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/SortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/algorithm/service/StackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/member/domain/BmiDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/member/domain/FDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/member/repository/MemberRepositroy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/member/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/member/service/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/controller/Oopcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/domain/CelPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/domain/GalPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/domain/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/domain/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/repository/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/service/PhoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/oop/service/PhoneServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb06Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb06ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb07Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb07ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb08Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb08ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb10Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/service/Feb10ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/quiz/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/abc/AbcApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/abc/AbcDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/algorithm/DemoController2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/algorithm/controller/AlgorithmController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/domain/BmiDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/domain/CalcDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/member/domain/CalcDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/domain/GoogleDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/member/domain/GoogleDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/domain/GradeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/member/domain/GradeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/domain/LoginDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/member/domain/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service/BmiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service/CalcService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service/GoogleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service/GradeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service/LoginService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24xDGruYzkyceHThcQBRghpLiBa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb9be5a-80e8-4cfb-88c5-8dea42bd0f62" name="Changes" comment="" />
+      <created>1644563251990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644563251990</updated>
+      <workItem from="1644563253183" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
