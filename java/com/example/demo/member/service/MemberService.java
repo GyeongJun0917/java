@@ -19,4 +19,7 @@ public interface MemberService {
   String getgrade(GradeDTO grade);
   String searach (GoogleDTO Google);
   String login(UserDTO login);
+  String calc();
+  String bmi();
+  String grade();
 }

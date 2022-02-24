@@ -8,6 +8,8 @@ import com.example.demo.member.domain.GradeDTO;
 import com.example.demo.member.domain.UserDTO;
 import com.example.demo.member.service.MemberServiceImpl;
 import com.example.demo.member.service.MemberService;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Scanner;
 
@@ -23,7 +25,9 @@ import java.util.Scanner;
  * 2022-01-27         Junggyeongjun       최초 생성
  * 2022-02-10 DTO 싱글턴 변경 및 멤버컨트롤러 수정
  */
+  @RestController
 public class MemberController {
+    @GetMapping("/member")
   public void execute(Scanner scanner) {
     QuizController tempController = new QuizController ();
     MemberService service = new MemberServiceImpl ();
